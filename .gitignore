@@ -21,3 +21,9 @@ test_data/
 scripts/datasets_sampled/
 pfdelta/data/
 site/
+
+# Machine-local agent state and nested worktrees.
+.claude/
+
+# Generated MATPOWER conversion caches.
+scripts/grids/*_corrected.m
